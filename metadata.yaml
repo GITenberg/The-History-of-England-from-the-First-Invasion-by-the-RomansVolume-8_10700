@@ -1,0 +1,39 @@
+_repo: The-History-of-England-from-the-First-Invasion-by-the-RomansVolume-8_10700
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Belloc, Hilaire
+    alias: Belloc, Joseph Hilaire Pierre
+    birthdate: 1870
+    deathdate: 1953
+    gutenberg_agent_id: '2437'
+    url: http://www.gutenberg.org/2009/agents/2437
+    wikipedia: http://en.wikipedia.org/wiki/Hilaire_Belloc
+  - agent_name: Lingard, John
+    alias: Lingard, J. (John)
+    birthdate: 1771
+    deathdate: 1851
+    gutenberg_agent_id: '3645'
+    url: http://www.gutenberg.org/2009/agents/3645
+    wikipedia: http://en.wikipedia.org/wiki/John_Lingard
+description: Vol. 1. Memoir of the Rev. Dr Lingard, by the Rev. M. A. Tierney, p.
+  1-37 -- v. 10. Index, p. 213-295
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History'
+- !lcc 'DA'
+- GITenberg
+title: 'The History of England from the First Invasion by the Romans
+
+  to the Accession of King George the Fifth
+
+  Volume 8'
+url: http://www.gutenberg.org/ebooks/10700
