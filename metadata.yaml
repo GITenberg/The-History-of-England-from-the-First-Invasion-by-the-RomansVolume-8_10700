@@ -1,5 +1,8 @@
 _repo: The-History-of-England-from-the-First-Invasion-by-the-RomansVolume-8_10700
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Belloc, Hilaire
@@ -18,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/John_Lingard
 description: Vol. 1. Memoir of the Rev. Dr Lingard, by the Rev. M. A. Tierney, p.
   1-37 -- v. 10. Index, p. 213-295
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10700#The-History-of-England-from-the-First-Invasion-by-the-RomansVolume-8
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
